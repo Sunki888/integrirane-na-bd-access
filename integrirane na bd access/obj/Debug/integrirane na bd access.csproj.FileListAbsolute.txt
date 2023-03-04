@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\integrirane na bd access\integrirane na bd access\bin\Debug\integrirane na bd access.exe.config
+C:\Users\user\source\repos\integrirane na bd access\integrirane na bd access\bin\Debug\integrirane na bd access.exe
+C:\Users\user\source\repos\integrirane na bd access\integrirane na bd access\bin\Debug\integrirane na bd access.pdb
+C:\Users\user\source\repos\integrirane na bd access\integrirane na bd access\obj\Debug\integrirane na bd access.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\integrirane na bd access\integrirane na bd access\obj\Debug\integrirane na bd access.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\integrirane na bd access\integrirane na bd access\obj\Debug\integrirane na bd access.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\integrirane na bd access\integrirane na bd access\obj\Debug\integrirane na bd access.exe
+C:\Users\user\source\repos\integrirane na bd access\integrirane na bd access\obj\Debug\integrirane na bd access.pdb
